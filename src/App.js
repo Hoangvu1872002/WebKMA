@@ -1,4 +1,4 @@
-import './App.css';
+
 import React from "react";
 import Login from "./component/loginRegister/Login"
 import Register from "./component/loginRegister/Register"
